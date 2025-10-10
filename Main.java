@@ -48,6 +48,6 @@ public class Main {
         
         //tugas soal no 9
         Konversi_suhu ks = new Konversi_suhu(10, 15, 5);
-        ks.tampilkanSemuaKonversi();S
+        ks.tampilkanSemuaKonversi();
     }
 }
