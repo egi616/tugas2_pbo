@@ -18,5 +18,4 @@ public class Persegi_panjang {
         System.out.println("hasil luas: "+luas);
         
     }
-    
 }
